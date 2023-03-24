@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/number-of-zero-filled-subarrays/
 
 // O(N) Time complexity
-// O(N) Space complexity
+// O(1) Space complexity
 
 class Solution {
 public:
